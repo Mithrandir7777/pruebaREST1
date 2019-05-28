@@ -5,8 +5,8 @@
     { "id": 3, "title": "una noticia verdadera" }
   ],
   "verificaciones": [
-    { "id": 1, "idhecho": "1", "clasificacion": 1 },
-    { "id": 2, "idhecho": "2", "clasificacion": 2 },
-    { "id": 3, "idhecho": "3", "clasificacion": 4 }
+    { "id": 1, "idhecho": 1, "clasificacion": 1 },
+    { "id": 2, "idhecho": 2, "clasificacion": 2 },
+    { "id": 3, "idhecho": 3, "clasificacion": 4 }
   ]  
 }
