@@ -14,5 +14,4 @@
     { "id": 2, "idhecho": 2, "idverificacion": 2, "clasificacion": 2, "titulohecho": "otra noticia falsa" },
     { "id": 3, "idhecho": 3, "idverificacion": 3, "clasificacion": 4, "titulohecho": "una noticia verdadera" }
   ]
-     
 }
