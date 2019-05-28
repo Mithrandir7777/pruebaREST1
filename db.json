@@ -10,9 +10,9 @@
     { "id": 3, "idhecho": 3, "clasificacion": 4 }
   ],
   "verificacioneshecho": [
-    { "id": 1, "idhecho": 1, "idverificacion": 1, "clasificacion": 1, "tituloHecho": "una noticia falsa" },
-    { "id": 2, "idhecho": 1, "idverificacion": 2, "clasificacion": 2, "tituloHecho": "otra noticia falsa" },
-    { "id": 3, "idhecho": 1, "idverificacion": 3, "clasificacion": 4, "tituloHecho": "una noticia verdadera" }
+    { "id": 1, "idhecho": 1, "idverificacion": 1, "clasificacion": 1, "titulohecho": "una noticia falsa" },
+    { "id": 2, "idhecho": 2, "idverificacion": 2, "clasificacion": 2, "titulohecho": "otra noticia falsa" },
+    { "id": 3, "idhecho": 3, "idverificacion": 3, "clasificacion": 4, "titulohecho": "una noticia verdadera" }
   ]
      
 }
